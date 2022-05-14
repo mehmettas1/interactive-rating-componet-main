@@ -8,3 +8,39 @@ body {
     height: 100vh;
     font-family: "Lato",sans-serif;
 }
+
+.paralax {
+   height: 100%; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+.paralax1 {
+    background-image: url(./img/bg1.jpg);
+}
+
+.paralax2 {
+    background-image: url(./img/bg2.jpg);
+
+
+}
+.paralax3 {
+    background-image: url(./img/bg3.jpg);
+
+
+}
+
+
+.paralax1 {
+    background-image: url(./img/bg4.jpg);
+
+}
+
+.paralax5 {
+    background-image: url(./img/bg1.jpg);
+}
